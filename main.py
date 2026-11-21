@@ -3,9 +3,9 @@ import os
 TEXT = (
     "Somewhere a glacier is moving one inch.\n"
     "No one is waiting for it.\n"
-    "The light reaching you now left its star before anyone had a word for star, "
+    "The light touching you now left its star before anyone had a word for star, "
     "and it has not hurried once.\n"
-    "Between the inch and the light, there is room for you.\n"
+    "Between the inch and the light, nothing is asked of you.\n"
     "Everything vast is slow."
 )
 
